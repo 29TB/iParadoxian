@@ -1,4 +1,14 @@
-:octocat:
+
+<p align="center">
+    <h1 align="center">:octocat: Paradox</h1>
+</p>
+<br>
+<p align="center">
+<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Welcome+to+my+stupid+page;Feel+free+to+report+bugs;Now+get+out+%F0%9F%98%A1;Eh%2C+jk+feel+free+to+check+my+repos;Thanks+for+visiting">
+</p>
+<br>
+
+-----
 
 ````bash
 > paradox help --info 
