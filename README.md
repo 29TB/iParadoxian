@@ -1,6 +1,6 @@
 
 <p align="center">
-    <h1 align="center">:octocat: 29TB</h1>
+    <h1 align="center">:octocat: Believaboat</h1>
 </p>
 <br>
 <p align="center">
@@ -11,22 +11,24 @@
 -----
 
 ````bash
-> terabytes help --info 
-  _______  ________  _________  ________     
- /  ___  \|\  ___  \|\___   ___\\   __  \    
-/__/|_/  /\ \____   \|___ \  \_\ \  \|\ /_   
-|__|//  / /\|____|\  \   \ \  \ \ \   __  \  
-    /  /_/__   __\_\  \   \ \  \ \ \  \|\  \ 
-   |\________\|\_______\   \ \__\ \ \_______\
-    \|_______|\|_______|    \|__|  \|_______|
+> believaboat help --info 
+ ________  ________  ________  _________   
+|\   __  \|\   __  \|\   __  \|\___   ___\ 
+\ \  \|\ /\ \  \|\  \ \  \|\  \|___ \  \_| 
+ \ \   __  \ \  \\\  \ \   __  \   \ \  \  
+  \ \  \|\  \ \  \\\  \ \  \ \  \   \ \  \ 
+   \ \_______\ \_______\ \__\ \__\   \ \__\
+    \|_______|\|_______|\|__|\|__|    \|__|
+                                           
+                                           
+                                           
                                              
-                                             
-> Begineer hacker learning Java(Script) and PHP.
+> Begineer software developer learning Java(Script), PHP, Python and Lua.
 > Current student lols
 ````
 
 ````bash
-> terabytes help --contact
+> believaboat help --contact
 > libera.chat (irc): mootibility
-> github: 29TB
+> github: Believaboat
 ````
