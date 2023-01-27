@@ -32,3 +32,11 @@
 > libera.chat (irc): mootibility
 > github: Believaboat
 ````
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Believaboat&theme=dark&hide_border=true)
+  
+  <h4>working on getting a month-long streak</h4>
+  <h6>this won't happen</h6>
+  <br>
+
+  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Believaboat&bg_color=2c2a2b&color=ecdfeb&line=13be66&point=17de77&area=true&hide_border=true)
