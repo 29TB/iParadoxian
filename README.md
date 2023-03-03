@@ -1,6 +1,6 @@
 
 <p align="center">
-    <h1 align="center">:octocat: Believaboat</h1>
+    <h1 align="center">src-ry</h1>
 </p>
 <br>
 <p align="center">
@@ -11,18 +11,31 @@
 -----
 
 ````bash
-> believaboat help --info 
- ________  ________  ________  _________   
-|\   __  \|\   __  \|\   __  \|\___   ___\ 
-\ \  \|\ /\ \  \|\  \ \  \|\  \|___ \  \_| 
- \ \   __  \ \  \\\  \ \   __  \   \ \  \  
-  \ \  \|\  \ \  \\\  \ \  \ \  \   \ \  \ 
-   \ \_______\ \_______\ \__\ \__\   \ \__\
-    \|_______|\|_______|\|__|\|__|    \|__|
-                                           
-                                           
-                                           
-                                             
+> src help --info 
+
+          _____                    _____                    _____          
+         /\    \                  /\    \                  /\    \         
+        /::\    \                /::\    \                /::\    \        
+       /::::\    \              /::::\    \              /::::\    \       
+      /::::::\    \            /::::::\    \            /::::::\    \      
+     /:::/\:::\    \          /:::/\:::\    \          /:::/\:::\    \     
+    /:::/__\:::\    \        /:::/__\:::\    \        /:::/  \:::\    \    
+    \:::\   \:::\    \      /::::\   \:::\    \      /:::/    \:::\    \   
+  ___\:::\   \:::\    \    /::::::\   \:::\    \    /:::/    / \:::\    \  
+ /\   \:::\   \:::\    \  /:::/\:::\   \:::\____\  /:::/    /   \:::\    \ 
+/::\   \:::\   \:::\____\/:::/  \:::\   \:::|    |/:::/____/     \:::\____\
+\:::\   \:::\   \::/    /\::/   |::::\  /:::|____|\:::\    \      \::/    /
+ \:::\   \:::\   \/____/  \/____|:::::\/:::/    /  \:::\    \      \/____/ 
+  \:::\   \:::\    \            |:::::::::/    /    \:::\    \             
+   \:::\   \:::\____\           |::|\::::/    /      \:::\    \            
+    \:::\  /:::/    /           |::| \::/____/        \:::\    \           
+     \:::\/:::/    /            |::|  ~|               \:::\    \          
+      \::::::/    /             |::|   |                \:::\    \         
+       \::::/    /              \::|   |                 \:::\____\        
+        \::/    /                \:|   |                  \::/    /        
+         \/____/                  \|___|                   \/____/         
+                                                                           
+                          
 > Begineer software developer learning Java(Script), PHP, Python and Lua.
 > Current student lols
 ````
@@ -30,13 +43,12 @@
 ````bash
 > believaboat help --contact
 > libera.chat (irc): mootibility
-> github: Believaboat
+> github: src-ry
 ````
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Believaboat&theme=dark&hide_border=true)
-  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=src-ry&theme=dark&hide_border=true)
   <h4>working on getting a month-long streak</h4>
   <h6>this won't happen</h6>
   <br>
 
-  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Believaboat&bg_color=2c2a2b&color=ecdfeb&line=13be66&point=17de77&area=true&hide_border=true)
+  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=src-ry&bg_color=2c2a2b&color=ecdfeb&line=13be66&point=17de77&area=true&hide_border=true)
