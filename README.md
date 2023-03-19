@@ -4,7 +4,7 @@
 </p>
 <br>
 <p align="center">
-<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Welcome+to+my+stupid+page;Feel+free+to+report+bugs;Now+get+out+%F0%9F%98%A1;Eh%2C+jk+feel+free+to+check+my+repos;Thanks+for+visiting">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Current+C%2B%2B+beginner+;Decent+at+MediaWiki+config+;Discord+Bot+Maker">
 </p>
 <br>
 
