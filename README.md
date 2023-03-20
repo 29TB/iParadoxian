@@ -10,7 +10,7 @@
 
 -----
 
-Hello! I am src-ry. I am a student learning C/C++, intermediate PHP knowledge and absolutely no SQL knowledge. I like making small little projects, but would like to move onto a larger project scaled with more people in mind. 
+Hello! I am src-ry. I am a student learning C/C++, intermediate PHP knowledge and absolutely no SQL knowledge. I like making small little projects, but would like to move onto a larger project scaled with more people in mind. I am very interesed in the FOSS ecosystem, and have contributed to a few repositories, however, I am going to work on a few more open-source projects.
 
 ## About me
 I support FOSS software, however do not mind using cloed, proprietary software if it makes everyday tasks easier (thus why I use GitHub, it's helpful for developers and students).
@@ -24,3 +24,5 @@ You may contact me via e-mail at `believaboat@gmail.com`. I also go by `srcry` o
 ## My stack
   ![Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+  
+**Note:** ratio
