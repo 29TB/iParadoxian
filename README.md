@@ -10,45 +10,17 @@
 
 -----
 
-````bash
-> src help --info 
+Hello! I am src-ry. I am a student learning C/C++, intermediate PHP knowledge and absolutely no SQL knowledge. I like making small little projects, but would like to move onto a larger project scaled with more people in mind. 
 
-          _____                    _____                    _____          
-         /\    \                  /\    \                  /\    \         
-        /::\    \                /::\    \                /::\    \        
-       /::::\    \              /::::\    \              /::::\    \       
-      /::::::\    \            /::::::\    \            /::::::\    \      
-     /:::/\:::\    \          /:::/\:::\    \          /:::/\:::\    \     
-    /:::/__\:::\    \        /:::/__\:::\    \        /:::/  \:::\    \    
-    \:::\   \:::\    \      /::::\   \:::\    \      /:::/    \:::\    \   
-  ___\:::\   \:::\    \    /::::::\   \:::\    \    /:::/    / \:::\    \  
- /\   \:::\   \:::\    \  /:::/\:::\   \:::\____\  /:::/    /   \:::\    \ 
-/::\   \:::\   \:::\____\/:::/  \:::\   \:::|    |/:::/____/     \:::\____\
-\:::\   \:::\   \::/    /\::/   |::::\  /:::|____|\:::\    \      \::/    /
- \:::\   \:::\   \/____/  \/____|:::::\/:::/    /  \:::\    \      \/____/ 
-  \:::\   \:::\    \            |:::::::::/    /    \:::\    \             
-   \:::\   \:::\____\           |::|\::::/    /      \:::\    \            
-    \:::\  /:::/    /           |::| \::/____/        \:::\    \           
-     \:::\/:::/    /            |::|  ~|               \:::\    \          
-      \::::::/    /             |::|   |                \:::\    \         
-       \::::/    /              \::|   |                 \:::\____\        
-        \::/    /                \:|   |                  \::/    /        
-         \/____/                  \|___|                   \/____/         
-                                                                           
-                          
-> Begineer software developer learning Java(Script), PHP, Python and Lua.
-> Current student lols
-````
+## About me
+I support FOSS software, however do not mind using cloed, proprietary software if it makes everyday tasks easier (thus why I use GitHub, it's helpful for developers and students).
+https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white
+## Projects
+I am working on 2 Minecraft utilities; one for Bedrock Edition, one for Java Edition. I also play around with wiki software, like MediaWiki and MoinMoin. 
 
-````bash
-> believaboat help --contact
-> libera.chat (irc): mootibility
-> github: src-ry
-````
+## Contact me
+You may contact me via e-mail at `believaboat@gmail.com`. I also go by `srcry` on `libera.chat`. However, I have left Discord due to issues in trust with the company/software. 
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=src-ry&theme=dark&hide_border=true)
-  <h4>working on getting a month-long streak</h4>
-  <h6>this won't happen</h6>
-  <br>
-
-  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=src-ry&bg_color=2c2a2b&color=ecdfeb&line=13be66&point=17de77&area=true&hide_border=true)
+## My stack
+  ![Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
