@@ -1,6 +1,5 @@
-
 <p align="center">
-    <h1 align="center">src-ry</h1>
+    <h1 align="center">src-ry 💻</h1>
 </p>
 <br>
 <p align="center">
@@ -14,7 +13,7 @@ Hello! I am src-ry. I am a student learning C/C++, intermediate PHP knowledge an
 
 ## About me
 I support FOSS software, however do not mind using cloed, proprietary software if it makes everyday tasks easier (thus why I use GitHub, it's helpful for developers and students).
-https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white
+
 ## Projects
 I am working on 2 Minecraft utilities; one for Bedrock Edition, one for Java Edition. I also play around with wiki software, like MediaWiki and MoinMoin. 
 
@@ -22,7 +21,15 @@ I am working on 2 Minecraft utilities; one for Bedrock Edition, one for Java Edi
 You may contact me via e-mail at `believaboat@gmail.com`. I also go by `srcry` on `libera.chat`. However, I have left Discord due to issues in trust with the company/software. 
 
 ## My stack
-  ![Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
-  
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+![GitHub](https://img.shields.io/badge/Maybe%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
 **Note:** ratio
