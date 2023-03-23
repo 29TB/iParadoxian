@@ -19,7 +19,7 @@ I am working on 2 Minecraft utilities; one for Bedrock Edition, one for Java Edi
 
 ## Contact me
 
-**Important messages are typically signed with my PGP Key which can be found [`here`](PGP%20Public%20Key)**
+**Important messages are typically signed with my PGP Key which can be found [`here`](PGP%20Public%20Key)**[^1]
 
 You may contact me via e-mail at `src@fbi.ac`. I also go by `srcry` on `libera.chat`. However, I have left Discord due to issues in trust with the company/software. 
 
@@ -35,4 +35,4 @@ You may contact me via e-mail at `src@fbi.ac`. I also go by `srcry` on `libera.c
 
 ---
 
-**Note:** ratio
+[^1]: Using a PGP key does, however, slow down response time. This is why I use it scarcely.  
