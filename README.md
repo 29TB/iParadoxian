@@ -33,6 +33,4 @@ You may contact me via e-mail at `src@fbi.ac`. I also go by `srcry` on `libera.c
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
 [^1]: Using a PGP key does, however, slow down response time. This is why I use it scarcely.  
