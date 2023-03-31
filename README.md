@@ -7,12 +7,12 @@
 </p>
 <br>
 
------
+</hr>
 
 Hello! I am src-ry. I am a student learning C/C++, intermediate PHP knowledge and absolutely no SQL knowledge. I like making small little projects, but would like to move onto a larger project scaled with more people in mind. I am very interesed in the FOSS ecosystem, and have contributed to a few repositories, however, I am going to work on a few more open-source projects.
 
 ## About me
-I support FOSS software, however do not mind using cloed, proprietary software if it makes everyday tasks easier (thus why I use GitHub, it's helpful for developers and students).
+I support FOSS software, however do not mind using closed, proprietary software if it makes everyday tasks easier (thus why I use GitHub, it's helpful for developers and students).
 
 ## Projects
 I am working on 2 Minecraft utilities; one for Bedrock Edition, one for Java Edition. I also play around with wiki software, like MediaWiki and MoinMoin. 
