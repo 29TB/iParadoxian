@@ -2,26 +2,16 @@
     <h1 align="center">src-ry 💻</h1>
 </p>
 <br>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Current+C%2B%2B+beginner+;Decent+at+MediaWiki+config+;Discord+Bot+Maker">
-</p>
-<br>
 
 </hr>
 
-Hello! I am src-ry. I am a student learning C/C++, intermediate PHP knowledge and absolutely no SQL knowledge. I like making small little projects, but would like to move onto a larger project scaled with more people in mind. I am very interesed in the FOSS ecosystem, and have contributed to a few repositories, however, I am going to work on a few more open-source projects.
+Hello! I am src-ry. I am a student learning C/C++. I like making small little projects.
 
 ## About me
 I support FOSS software, however do not mind using closed, proprietary software if it makes everyday tasks easier (thus why I use GitHub, it's helpful for developers and students).
 
 ## Projects
-I am working on 2 Minecraft utilities; one for Bedrock Edition, one for Java Edition. I also play around with wiki software, like MediaWiki and MoinMoin. 
-
-## Contact me
-
-**Important messages are typically signed with my PGP Key which can be found [`here`](PGP%20Public%20Key)**[^1]
-
-You may contact me via e-mail at `src@fbi.ac`. I also go by `srcry` on `libera.chat`. However, I have left Discord due to issues in trust with the company/software. 
+I am working on a few Wii hacks to help others to homebrew their Wii, as ewll as a few QOL channels for it, and some HBC projects. I plan on releasing a few Riivolution mods at some point as well. 
 
 ## My stack
 
@@ -32,5 +22,3 @@ You may contact me via e-mail at `src@fbi.ac`. I also go by `srcry` on `libera.c
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-[^1]: Using a PGP key does, however, slow down response time. This is why I use it scarcely.  
